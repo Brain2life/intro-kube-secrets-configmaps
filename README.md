@@ -166,3 +166,4 @@ mysql -uroot -p${MYSQL_ROOT_PASSWORD} -e "SHOW VARIABLES LIKE 'max_allowed_packe
 ### Reference:
 1. [Bash Scripting Tutorial - 3. User Input](https://ryanstutorials.net/bash-scripting-tutorial/bash-input.php)
 2. [An Introduction to Kubernetes Secrets and ConfigMaps](https://opensource.com/article/19/6/introduction-kubernetes-secrets-and-configmaps)
+3. [Minikube installation on Ubuntu system](https://github.com/Brain2life/minikube-ubuntu-install)
